@@ -1,3 +1,2 @@
-Hey there. I'm Felix Biwott, I'm a web developer and content strategist. I've long term experience on Full Stack Development in PHP and top frameworks Laravel, CodeIgniter and Magento, and I'm looking to assist those that need web development work done, or searching for ideas and management for their next big project.
-I’m looking to collaborate on any web development project.
-My Facebook contact is facebook.com/felixkpt, Phone/WhatsApp: +254726021426.
+I have experience of 3 years in web development with 2 years experience as a freelancer, and over this period I have gained excellent knowledge in designing and building elegant, robust, fast and secure websites.
+I am self motivated person who works under little supervision and never quit easily until the desired results is achieved.
